@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 200,
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ullam molestias quasi. Aliquid deleniti ut repellat accusamus ratione quisquam minus repellendus facilis, amet, explicabo ipsa esse maiores, laboriosam perferendis qui!",
+        "img": "https://i.ibb.co/P5NywB0/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": 250,
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ullam molestias quasi. Aliquid deleniti ut repellat accusamus ratione quisquam minus repellendus facilis, amet, explicabo ipsa esse maiores, laboriosam perferendis qui!",
+        "img": "https://i.ibb.co/BgyLfKG/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "price": 180,
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ullam molestias quasi. Aliquid deleniti ut repellat accusamus ratione quisquam minus repellendus facilis, amet, explicabo ipsa esse maiores, laboriosam perferendis qui!",
+        "img": "https://i.ibb.co/d7gtKRt/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BRAKE REPARING",
+        "price": 350,
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ullam molestias quasi. Aliquid deleniti ut repellat accusamus ratione quisquam minus repellendus facilis, amet, explicabo ipsa esse maiores, laboriosam perferendis qui!",
+        "img": "https://i.ibb.co/6DhrjrL/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": 700,
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ullam molestias quasi. Aliquid deleniti ut repellat accusamus ratione quisquam minus repellendus facilis, amet, explicabo ipsa esse maiores, laboriosam perferendis qui!",
+        "img": "https://i.ibb.co/r3qWpPH/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "price": 750,
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Et ullam molestias quasi. Aliquid deleniti ut repellat accusamus ratione quisquam minus repellendus facilis, amet, explicabo ipsa esse maiores, laboriosam perferendis qui!",
+        "img": "https://i.ibb.co/3zYxPzq/6.jpg"
+    }
+]
